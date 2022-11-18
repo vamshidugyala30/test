@@ -1,0 +1,1 @@
+echo "kkkkk" > f2
